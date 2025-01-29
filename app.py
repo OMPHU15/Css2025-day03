@@ -14,7 +14,7 @@ st.title("Researcher Profile Page")
 # Collect basic information
 name = "Ms. Omphulusa Nelwamondo"
 field = "Chemistry"
-institution = "University of South Africa"
+institution = "UNISA"
 
 # Display basic profile information
 st.header("Researcher Overview")
